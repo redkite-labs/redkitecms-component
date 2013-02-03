@@ -1,6 +1,7 @@
 {
   "name" : "alphalemon.component",
   "version" : "1.0.2",
+  "main": "./alphalemon.js",
   "dependencies": {
     "jquery": "~1.9.2",
     "jquery-easing": "*",
