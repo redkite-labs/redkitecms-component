@@ -1,4 +1,6 @@
 {
+  "name" : "alphalemon.component",
+  "version" : "1.0.2",
   "dependencies": {
     "jquery": "~1.9.2",
     "jquery-easing": "*",
@@ -7,3 +9,4 @@
     "pageguide": "https://github.com/tracelytics/pageguide.git"
   }
 }
+
