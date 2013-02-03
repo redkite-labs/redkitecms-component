@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "jquery": "~1.9.2",
+    "jquery-easing": "*",
+    "jquery-metadata": "*",
+    "sydcanem-bootstrap-contextmenu": "*",
+    "pageguide": "https://github.com/tracelytics/pageguide.git"
+  }
+}
