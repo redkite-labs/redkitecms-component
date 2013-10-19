@@ -1,12 +1,10 @@
 {
   "name" : "alphalemon.component",
-  "version" : "1.0.3",
+  "version" : "1.0.4",
   "dependencies": {
     "jquery": "~1.8.3",
     "jquery-easing": "*",
-    "jquery-metadata": "*",
-    "holderjs": "*",
-    "pageguide": "https://github.com/tracelytics/pageguide.git"
+    "jquery.metadata": "*",
+    "holderjs": "*"
   }
 }
-
